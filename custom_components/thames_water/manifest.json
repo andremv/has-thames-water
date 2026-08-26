@@ -1,0 +1,10 @@
+{
+  "domain": "thames_water",
+  "name": "Thames Water",
+  "codeowners": ["@andreimv"],
+  "config_flow": true,
+  "documentation": "https://github.com/andreimv/has-thames-water",
+  "iot_class": "cloud_polling",
+  "version": "1.0.0",
+  "requirements": []
+}
