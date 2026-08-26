@@ -26,6 +26,16 @@ and the time of the latest reading.
 
 ## Installation
 
+### HACS (custom repository)
+
+1. In Home Assistant, open **HACS → Integrations**.
+2. Click the **⋮** menu → **Custom repositories**.
+3. Paste `https://github.com/andremv/has-thames-water`, choose
+   **Integration**, and click **Add**.
+4. Search for **Thames Water**, install it, and restart Home Assistant.
+
+### Manual
+
 Copy the `custom_components/thames_water` folder into your
 `config/custom_components/` directory:
 

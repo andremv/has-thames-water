@@ -1,0 +1,6 @@
+{
+  "name": "Thames Water",
+  "homeassistant": "2023.8.0",
+  "country": ["GB"],
+  "render_readme": true
+}
